@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
         Nama saya Chintia Sentosa <br/>
         NIM: 51019004 <br/>
         Jurusan Sistem Informasi <br/>
-        Mata Kuliah Cloud Computing. 
+       
     `)
 })
 
